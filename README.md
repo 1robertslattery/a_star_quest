@@ -14,7 +14,7 @@ The A* search algorithm is a popular technique to approximate the shortest path 
 - Templated math library for vectors
 - Prints coordinates to terminal
 - Makefile
-- Requires compile flags:  `lGL`  `-lGLU`  `-lglut`  `-lGLEW`  `-lpthread`
+- Requires compile flags:  `-lGL`  `-lGLU`  `-lglut`  `-lGLEW`  `-lpthread`
 
 ## FREEGLUT DEMONSTRATION
 
