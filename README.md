@@ -20,27 +20,27 @@ The A* search algorithm is a popular technique to approximate the shortest path 
 
 ### Manhattan (Diagonal Movement)
 
-![alt text](/screenshots/manhattan-diagonal.PNG?raw=true)
+![alt text](/screenshots/manhattan-diagonal.png?raw=true)
 
 ### Manhattan (No Diagonal Movement)
 
-![alt text](/screenshots/manhattan.PNG?raw=true)
+![alt text](/screenshots/manhattan.png?raw=true)
 
 ### Euclidean (Diagonal Movement)
 
-![alt text](/screenshots/euclidean-diagonal.PNG?raw=true)
+![alt text](/screenshots/euclidean-diagonal.png?raw=true)
 
 ### Euclidean (No Diagonal Movement)
 
-![alt text](/screenshots/euclidean.PNG?raw=true)
+![alt text](/screenshots/euclidean.png?raw=true)
 
 ### Octagonal (Diagonal Movement)
 
-![alt text](/screenshots/octagonal-diagonal.PNG?raw=true)
+![alt text](/screenshots/octagonal-diagonal.png?raw=true)
 
 ### Octagonal (No Diagonal Movement)
 
-![alt text](/screenshots/octagonal.PNG?raw=true)
+![alt text](/screenshots/octagonal.png?raw=true)
 
 ## FREEGLUT LIBRARY
 
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 | Files and Folders	| Description						|
 | --------------------- |:-----------------------------------------------------:|
 | `nbproject`		| Files that configure Makefile and Netbeans project	|
-| `src`			| **A* Quest** source					|
+| `src`			| Project source						|
 | `screenshots`		| Demo pictures in README				|
 | `CHANGELOG`		| Log to track changes in respository			|
 | `README`		| This file						|
@@ -176,6 +176,7 @@ int main(int argc, char** argv)
 **Files attributed to this repository author will have the following text:**
 
 > MIT License
+>
 > Copyright (c) 2018 Robert Slattery
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
